@@ -12,6 +12,8 @@
       "$amplify/*": [
         "../.amplify/generated/*"
       ]
-    }
+    },
+    "types": ["node"],
+    "lib": ["es2020"] 
   }
 }
